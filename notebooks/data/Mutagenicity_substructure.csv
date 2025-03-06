@@ -1,0 +1,33 @@
+smarts&name
+[c][N+](=O)[O-]&Specific aromatic nitro
+[c][c][c](cc)N([H])[H]&Specific aromatic amine
+[c][NX2]=[OX1]&Aromatic nitroso
+[N](=O)[O]-[*]&Alkyl nitrite
+O=[N;X2]-N(-[#6])(-[#6])&Nitrosamine
+C1OC1&Epoxide
+C1NC1&Aziridine
+[*]-[N]=[N+]=[N-]&Azide
+[*]-[N+]=[N-]&Diazo
+[*]-[N]=[N]-[N]-[*]&Triazene
+[c]-N=N-[c]&Aromatic azo
+[N,O]-[NH2,OH]&Unsubstituted heteroatom-bonded heteroatom
+[c][NH][OH]&Aromatic hydroxylamine
+[CX4][Cl,Br,I]&Aliphatic halide
+C(=O)[Cl,Br,I]&Carboxylic acid halide
+[Cl,Br,I]CCN&Nitrogen mustard
+[Cl,Br,I]CCS&Sulfur mustard
+[c]1[c][c][c][c][c]1[c][c][c]&Polycyclic aromatic system
+S(=O)(=O)[O][C]&Sulfonate-bonded carbon (alkyl alkane sulfonate or dialkyl sulfate)
+[N]([C])[N+](=O)[O-]&Aliphatic N-nitro
+[CH]=[CH][CH]=O&α,β-Unsaturated aldehyde (including α-carbonyl aldehyde)
+[c][N+]#N&Diazonium
+O=C1CCO1&β-Propiolactone
+[C]=[C][O][C]&α,β-Unsaturated alkoxy group
+[c][NH][NH][C]&1-Aryl-2-monoalkyl hydrazine
+[c][NH][CH3]&Aromatic methylamine
+[c][NH][O][C](=O)&Aromatic hydroxylamine ester
+c1ccc2c(c1)ccc3c2ccc4c3cccc4&Polycyclic planar system
+[*]-S(=O)(=O)[NH]-[*]&Sulfonamide
+*-[C](F)(F)F&Trifluoromethyl Group
+[$([a])]S(=O)(=O)[#6]&Arylsulfonyl Derivatives
+*-S(=O)(=O)[OH]&Sulfonic Acid Group

@@ -1,0 +1,13 @@
+[2022-10-27 13:50:01,913][schnetpack.cli][INFO] - Runnning on host: node43
+[2022-10-27 13:50:02,189][schnetpack.cli][INFO] - Seed randomly...
+[2022-10-27 13:50:02,508][schnetpack.cli][INFO] - Instantiating datamodule <schnetpack.data.AtomsDataModule>
+[2022-10-27 13:50:02,576][schnetpack.cli][INFO] - Instantiating model <schnetpack.model.NeuralNetworkPotential>
+[2022-10-27 13:50:02,805][schnetpack.cli][INFO] - Instantiating task <schnetpack.AtomisticTask>
+[2022-10-27 13:50:02,899][schnetpack.cli][INFO] - Instantiating callback <schnetpack.train.ModelCheckpoint>
+[2022-10-27 13:50:02,912][schnetpack.cli][INFO] - Instantiating callback <pytorch_lightning.callbacks.EarlyStopping>
+[2022-10-27 13:50:02,917][schnetpack.cli][INFO] - Instantiating callback <pytorch_lightning.callbacks.LearningRateMonitor>
+[2022-10-27 13:50:02,921][schnetpack.cli][INFO] - Instantiating logger <pytorch_lightning.loggers.tensorboard.TensorBoardLogger>
+[2022-10-27 13:50:02,925][schnetpack.cli][INFO] - Instantiating trainer <pytorch_lightning.Trainer>
+[2022-10-27 13:50:04,082][schnetpack.cli][INFO] - Logging hyperparameters.
+[2022-10-27 13:50:04,477][schnetpack.cli][INFO] - Starting training.
+[2022-11-03 05:55:28,973][schnetpack.cli][INFO] - Starting testing.
