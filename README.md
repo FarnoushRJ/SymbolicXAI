@@ -2,7 +2,7 @@
 
 
 
-<span style="font-size:24px;"><b>Official repository of the paper</b></span> <div align="right">  <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="400" style="margin-top:-120px; margin-bottom:-60px;"/>
+<span style="font-size:2em;"><b>Official repository of the paper</b></span> <div align="right">  <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="500" style="margin-top:-120px; margin-bottom:-60px;"/>
 </div>
 
 #  *Towards symbolic XAI - <br>Explanation through human understandable logical relationships between features* 
