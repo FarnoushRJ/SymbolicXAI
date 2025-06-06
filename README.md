@@ -1,16 +1,12 @@
-<table width="100%">
-    <tr>
-        <td align="center" width="66%">
-            <h1 style="font-size:2.5em; font-weight:bold; margin-bottom:0;">
-                Official repo of the paper <br>
-                <span style="font-size:1.2em;">"Towards symbolic XAI — explanation through human understandable logical relationships between features"</span>
-            </h1>
-        </td>
-        <td align="center" width="34%">
-            <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="500" style="margin-top:-30px; margin-bottom:0;"/>
-        </td>
-    </tr>
-</table>
+
+# Official repo of the paper <br> "Towards symbolic XAI — explanation through human understandable logical relationships between features"  
+
+
+
+<div align="right">
+    <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="500" style="margin-top:-60px; margin-bottom:0;"/>
+</div>
+
 
 
 
