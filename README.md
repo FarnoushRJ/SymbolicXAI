@@ -3,7 +3,7 @@
 
 
 <div align="right">
-    <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="500" style="margin-top:-60px; margin-bottom:0;"/>
+    <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="400" style="margin-top:-60px; margin-bottom:0;"/>
 </div>
 
 # Official repo of the paper: <br> *Towards symbolic XAI — explanation through human understandable logical relationships between features* 
