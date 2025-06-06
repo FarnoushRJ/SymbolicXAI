@@ -2,11 +2,10 @@
 
 
 
-<div align="right">
-    <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="400" style="margin-top:-60px; margin-bottom:0;"/>
+<span style="font-size:1.9em;"><b>Official repository of the paper</b></span> <div align="right">  <img src="25_0606_SymbolicXAI_HI__COLOUR_transparentBG.png" width="400" style="margin-top:-120px; margin-bottom:-60px;"/>
 </div>
 
-# Official repo of the paper: <br> *Towards symbolic XAI — explanation through human understandable logical relationships between features* 
+#  *Towards symbolic XAI - <br>Explanation through human understandable logical relationships between features* 
 
 
 
